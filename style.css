@@ -7,5 +7,5 @@ body{
 .flex-container{
     display: grid;
     place-items: center;
-    height: 100px;
+    height: 100vh;
 }
