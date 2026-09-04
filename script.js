@@ -1,4 +1,3 @@
-console.log("SCRIPT LOADED");
 function popup(){
-    alert("YOU ARE GAY")
+    alert("YOU ARE GAY");
 }
