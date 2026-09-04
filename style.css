@@ -1,20 +1,24 @@
 html,
-body {
+body{
     margin: 0;
     min-height: 100%;
     background-color: floralwhite;
 }
 
-body {
-    min-height: 100vh;
+.page{
+    display:flex;
+    gap: 0px;
 }
 
-.GAY {
+.GAY{
     background-color: red;
 }
 
-.flex-container {
-    display: grid;
-    place-items: center;
-    min-height: 100vh;
+.main_content{
+    background-color: floralwhite;
+    flex: 1;
+}
+.side_stuff{
+    background-color: blue;
+    width: 300px
 }
